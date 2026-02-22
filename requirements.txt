@@ -1,0 +1,6 @@
+streamlit==1.38.0
+transformers==4.45.0
+pylint==3.3.7
+bandit==1.7.9
+pandas==2.2.3
+numpy==2.1.1
