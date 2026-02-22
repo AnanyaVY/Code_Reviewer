@@ -11,16 +11,17 @@
 
 #### 4.Refactoring Suggestions
 
-What It Does
-Paste your code (Python or JavaScript)
+## What It Does
 
-AI + Linters analyze in parallel (~30-60s)
+#### 1.Paste your code (Python or JavaScript)
 
-Get instant feedback on:
+#### 2.AI + Linters analyze in parallel (~30-60s)
 
-Code quality & style violations
+#### 3.Get instant feedback on:
 
-Security vulnerabilities (HIGH/MEDIUM/LOW)
+#### 4.Code quality & style violations
+
+#### 5.Security vulnerabilities (HIGH/MEDIUM/LOW)
 
 Logical bugs & refactoring suggestions
 
