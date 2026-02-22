@@ -1,5 +1,3 @@
-# Code_Reviewer
-
 ## AI-Powered Code Review Assistant
 
 ## Project Overview
